@@ -9,9 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkazumin&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-</p>
 
 
 ### Обо мне
